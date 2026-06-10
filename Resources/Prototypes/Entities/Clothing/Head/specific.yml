@@ -42,7 +42,7 @@
   - type: Foldable  
     canFoldInsideContainer: true  
     foldVerbText: switch-fedora  
-    unfoldVerbText: switch-to-brown-fedora  
+    unfoldVerbText: switch-fedora  
   - type: Sprite
     sprite: Clothing/Head/Hats/gogogadgethat.rsi
     layers:
