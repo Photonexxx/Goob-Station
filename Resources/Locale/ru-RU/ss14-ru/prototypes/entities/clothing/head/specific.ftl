@@ -3,4 +3,4 @@ ent-ClothingHeadHatChameleon = берет
     .suffix = Хамелеон
 ent-ClothingHeadHatDetGadget = гаджет-шляпа
     .desc = Инновационная шляпа со встроенным набором инструментов. Автоматически хранит и извлекает предметы по одной фразе!
-switch-to-grey-fedora = Поменять на серую
+switch-fedora = Изменить стиль
