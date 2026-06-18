@@ -15,11 +15,8 @@
     - state: paper_stamp-generic
       map: ["enum.PaperVisualLayers.Stamp"]
       visible: false
-  - type: Tag
-    tags:
-    - Trash
-    - Document
-    - Paper
+  - type: FaxableObject
+    copyable: false
   - type: Paper
     editingDisabled: true
   - type: PaperVisuals
