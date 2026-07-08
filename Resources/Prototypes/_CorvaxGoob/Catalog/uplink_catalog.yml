@@ -53,6 +53,22 @@
   categories:
   - UplinkDeception
 
+- type: listing
+  id: UplinkSyndicateGorilla
+  name: uplink-reinforcement-radio-syndicate-gorilla-name
+  description: uplink-reinforcement-radio-syndicate-gorilla-desc
+  icon: { sprite: _CorvaxGoob/Mobs/Pets/syndicategorilla.rsi, state: crawling }
+  productEntity: ReinforcementRadioSyndicateGorilla
+  cost:
+    Telecrystal: 50 
+  categories:
+    - UplinkAllies
+  conditions:
+  - !type:StoreWhitelistCondition
+    blacklist:
+      tags:
+      - ContravendUplink
+      
 # CorvaxGoob-DiceOfFate : Corvax Wega Port (original author: Zekins3366) start
 - type: listing
   id: UplinkDiceOfFate

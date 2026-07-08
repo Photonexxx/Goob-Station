@@ -1,4 +1,11 @@
-# CorvaxGoob-DiceOfFate : Corvax Wega Port (original author: Zekins3366)
+- type: damageModifierSet
+  id: Mobsyndicategorillaset
+  coefficients:
+    Blunt: 0.5
+    Slash: 0.5
+    Piercing: 0.5
+    Heat: 0.5
+  ignoreArmorPierceFlags: All
 
 - type: damageModifierSet
   id: DiceOfFateMod
